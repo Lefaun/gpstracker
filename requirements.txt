@@ -1,3 +1,5 @@
+streamlit>=1.20.0
 requests>=2.25.1
 websocket-client>=1.2.3
 geopy>=2.2.0
+pydeck>=0.7.1
